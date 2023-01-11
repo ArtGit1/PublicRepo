@@ -1,0 +1,12 @@
+
+SpringApp/target/classes/
+SpringApp/target/generated-sources/
+SpringApp/target/maven-archiver/
+SpringApp/target/maven-status/
+SpringApp/target/surefire-reports/
+SpringApp/target/test-classes/
+SpringApp/springApp.iml
+JavaApp/target/classes/
+JavaApp/target/maven-archiver/
+JavaApp/target/maven-status/
+.idea
